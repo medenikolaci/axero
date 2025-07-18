@@ -1,0 +1,2537 @@
+{
+  "users": [
+    {
+      "id": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "username": "devuser",
+      "password": "devpassword",
+      "name": "Dev_User",
+      "avatar": "https://picsum.photos/id/887/100/100"
+    },
+    {
+      "id": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+      "username": "cyber_anna",
+      "password": "password1",
+      "name": "Anna_X",
+      "avatar": "https://picsum.photos/id/794/100/100"
+    },
+    {
+      "id": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+      "username": "digital_marco",
+      "password": "password2",
+      "name": "Marco_Z",
+      "avatar": "https://picsum.photos/id/532/100/100"
+    },
+    {
+      "id": "759942c0-cf1f-4e23-a967-7f7d78eb572d",
+      "username": "quantum_elena",
+      "password": "password3",
+      "name": "Elena_K",
+      "avatar": "https://picsum.photos/id/756/100/100"
+    },
+    {
+      "id": "d5173058-1b12-4f6d-b0ab-dc8a9fb056df",
+      "username": "code_luca",
+      "password": "password4",
+      "name": "Luca_G",
+      "avatar": "https://picsum.photos/id/950/100/100"
+    },
+    {
+      "id": "7634dfac-0b5f-41f4-9e97-7dbb7262e906",
+      "username": "stefan",
+      "password": "Stefan.123",
+      "name": "stefan",
+      "avatar": "https://picsum.photos/id/382/100/100"
+    },
+    {
+      "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "username": "anjaa",
+      "password": "anja.123",
+      "name": "anja",
+      "avatar": "https://picsum.photos/id/499/100/100"
+    },
+    {
+      "id": "9a9316f7-cb10-42fb-bf59-7ab7d967bd00",
+      "username": "caneparo",
+      "password": "porco dio",
+      "name": "manuel",
+      "avatar": "https://picsum.photos/id/75/100/100"
+    }
+  ],
+  "friendships": [
+    {
+      "user1Id": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "user2Id": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f"
+    },
+    {
+      "user1Id": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "user2Id": "13b83f45-f163-4bba-92d7-eee0ca2b9a19"
+    },
+    {
+      "user1Id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "user2Id": "7634dfac-0b5f-41f4-9e97-7dbb7262e906"
+    }
+  ],
+  "messages": [
+    {
+      "id": "432822fc-cf26-42da-92a4-fc2534928d03",
+      "conversationId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "Cybernetic greetings, Anna. System status: optimal. 🚀",
+      "mediaPath": null,
+      "timestamp": 1752738687951,
+      "readStatus": 2
+    },
+    {
+      "id": "6b1038d1-12e4-4641-a71a-cb842287c5e4",
+      "conversationId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+      "senderId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+      "content": "Processor online, Dev_User! Initiating data transfer sequence. 💾",
+      "mediaPath": null,
+      "timestamp": 1752738787951,
+      "readStatus": 2
+    },
+    {
+      "id": "d4db3296-1918-413a-896d-eaf11eb0f72d",
+      "conversationId": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "Protocol Marco, any new digital artifacts found? 🖼️",
+      "mediaPath": null,
+      "timestamp": 1752735087951,
+      "readStatus": 2
+    },
+    {
+      "id": "79f5e901-255c-4caa-bc7f-071d2302913c",
+      "conversationId": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+      "senderId": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+      "content": "Affirmative! Accessing recent network captures. Ready for sync. ✨",
+      "mediaPath": null,
+      "timestamp": 1752735187951,
+      "readStatus": 2
+    },
+    {
+      "id": "7d43b48c-6baf-47d4-917f-bc0e906637ef",
+      "conversationId": "759942c0-cf1f-4e23-a967-7f7d78eb572d",
+      "senderId": "759942c0-cf1f-4e23-a967-7f7d78eb572d",
+      "content": "Quantum_Elena online. New data stream detected. Analysis complete. 📊",
+      "mediaPath": null,
+      "timestamp": 1752742227951,
+      "readStatus": 0
+    },
+    {
+      "id": "3d209eeb-7ba7-4fca-a319-d48702ad2d3d",
+      "conversationId": "7634dfac-0b5f-41f4-9e97-7dbb7262e906",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "asda",
+      "mediaPath": null,
+      "timestamp": 1752747221098,
+      "readStatus": 0
+    },
+    {
+      "id": "0dc2b8d1-702d-454d-9d48-7af75a03e298",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "7634dfac-0b5f-41f4-9e97-7dbb7262e906",
+      "content": "(Response from stefan): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752747223608,
+      "readStatus": 0
+    },
+    {
+      "id": "96e89762-b0c1-498a-a146-a49d8cfe8668",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "adsdasda",
+      "mediaPath": null,
+      "timestamp": 1752755128191,
+      "readStatus": 0
+    },
+    {
+      "id": "c5f8faf8-1f86-4ec4-b8c8-49022e658b6f",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752755130701,
+      "readStatus": 0
+    },
+    {
+      "id": "82b6d642-cb07-47e1-aeee-4831ee9d0849",
+      "conversationId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "das",
+      "mediaPath": null,
+      "timestamp": 1752755137093,
+      "readStatus": 0
+    },
+    {
+      "id": "bd15cb25-1da0-4ae6-a7d5-14e8ec943ace",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+      "content": "(Response from Anna_X): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752755139604,
+      "readStatus": 0
+    },
+    {
+      "id": "37f258d4-a69d-40cb-8e82-590e82f9be3c",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "asda",
+      "mediaPath": null,
+      "timestamp": 1752755300619,
+      "readStatus": 0
+    },
+    {
+      "id": "3c691f73-973d-4412-9dc8-63bd10dcebf3",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752755303121,
+      "readStatus": 0
+    },
+    {
+      "id": "98d07411-3517-40be-9860-031dbb8f5975",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "sad",
+      "mediaPath": null,
+      "timestamp": 1752755443522,
+      "readStatus": 0
+    },
+    {
+      "id": "62ecef97-c0db-48b6-8008-ef66c88a96ef",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752755446056,
+      "readStatus": 0
+    },
+    {
+      "id": "fe5abe56-079a-44f1-b897-37819a95c3bb",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "sadasdas",
+      "mediaPath": null,
+      "timestamp": 1752755492469,
+      "readStatus": 0
+    },
+    {
+      "id": "5d60ffb1-2695-4a4b-b3ad-423f98203f77",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752755494981,
+      "readStatus": 0
+    },
+    {
+      "id": "e012ba8a-5009-40dc-9bbd-e171dc35dbfc",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "dasda",
+      "mediaPath": null,
+      "timestamp": 1752755500405,
+      "readStatus": 0
+    },
+    {
+      "id": "cccbc9c1-655c-4f54-86ae-3488e8070e38",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752755502916,
+      "readStatus": 0
+    },
+    {
+      "id": "59a81292-971c-4a9e-b95f-aefb5b88f584",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "asda",
+      "mediaPath": null,
+      "timestamp": 1752755513757,
+      "readStatus": 0
+    },
+    {
+      "id": "2b92e74d-f76a-4bc3-a12c-021430538023",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752755516266,
+      "readStatus": 0
+    },
+    {
+      "id": "7f225745-d239-46b6-85c1-ef121b02bfe1",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "asd",
+      "mediaPath": null,
+      "timestamp": 1752755676822,
+      "readStatus": 0
+    },
+    {
+      "id": "2e37df46-c983-426e-ae70-68d424737e70",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752755679331,
+      "readStatus": 0
+    },
+    {
+      "id": "b9b0547e-ea74-4170-aab8-29444114acc1",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "sad",
+      "mediaPath": null,
+      "timestamp": 1752755910785,
+      "readStatus": 0
+    },
+    {
+      "id": "63ebfb62-6ae0-4b93-9c81-4716e52e9a2f",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752755913296,
+      "readStatus": 0
+    },
+    {
+      "id": "1ead1c34-958e-44df-9bd3-242ccab608f6",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "sda",
+      "mediaPath": null,
+      "timestamp": 1752755929548,
+      "readStatus": 0
+    },
+    {
+      "id": "1fc9b90e-f5c5-42f8-82c1-2fda0473544c",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752755932055,
+      "readStatus": 0
+    },
+    {
+      "id": "ed3f85f4-4909-49d6-9118-74c6b78c8231",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "das",
+      "mediaPath": null,
+      "timestamp": 1752756049531,
+      "readStatus": 0
+    },
+    {
+      "id": "53b3f679-2fb4-4c19-92a5-cdec483d97c7",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756052044,
+      "readStatus": 0
+    },
+    {
+      "id": "a2c906e6-3fa2-4317-8a66-9e9fc37f5d90",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "dsda",
+      "mediaPath": null,
+      "timestamp": 1752756061443,
+      "readStatus": 0
+    },
+    {
+      "id": "071f244c-9b8b-4c5f-b2b8-d7b92a60025b",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756063962,
+      "readStatus": 0
+    },
+    {
+      "id": "ff408869-07c0-4ebb-8303-8cbf1cac77ea",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "ds",
+      "mediaPath": null,
+      "timestamp": 1752756067424,
+      "readStatus": 0
+    },
+    {
+      "id": "a1aab1ba-08d2-4b2e-b808-3a4d48211adf",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756069945,
+      "readStatus": 0
+    },
+    {
+      "id": "6b4eb584-4f23-48b5-8710-ac341f84a680",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "dl",
+      "mediaPath": null,
+      "timestamp": 1752756144879,
+      "readStatus": 0
+    },
+    {
+      "id": "5150b985-743f-4d1c-bde3-dcd68399802f",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756147387,
+      "readStatus": 0
+    },
+    {
+      "id": "6463309c-f661-4407-8f6b-9b5f53d88cc4",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "sads",
+      "mediaPath": null,
+      "timestamp": 1752756148791,
+      "readStatus": 0
+    },
+    {
+      "id": "a3ca0578-f1ec-41d5-9f41-ec2931e7ed7b",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756151295,
+      "readStatus": 0
+    },
+    {
+      "id": "e7fc0415-62fd-464d-a032-c81a74d77962",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "asd",
+      "mediaPath": null,
+      "timestamp": 1752756153662,
+      "readStatus": 0
+    },
+    {
+      "id": "6107e670-f683-456c-a875-759b61134a9d",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756156169,
+      "readStatus": 0
+    },
+    {
+      "id": "2f208b70-4c54-4f92-8589-f34c6bb710ab",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "dasd",
+      "mediaPath": null,
+      "timestamp": 1752756310986,
+      "readStatus": 0
+    },
+    {
+      "id": "57e1ce27-5b47-4367-be2e-abc7c94709a0",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756313501,
+      "readStatus": 0
+    },
+    {
+      "id": "38d9f3d0-cb18-4968-b07a-c4ee46a7d816",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "sad",
+      "mediaPath": null,
+      "timestamp": 1752756383401,
+      "readStatus": 0
+    },
+    {
+      "id": "812808d4-0477-4f0c-8f9a-b79861044d79",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756385908,
+      "readStatus": 0
+    },
+    {
+      "id": "8a89ec88-6688-4311-b8da-455c2e588896",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "sad",
+      "mediaPath": null,
+      "timestamp": 1752756396789,
+      "readStatus": 0
+    },
+    {
+      "id": "c10b0cb8-3e67-451b-b59c-8fa289e02eb7",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756399319,
+      "readStatus": 0
+    },
+    {
+      "id": "5b54f2cc-db59-4fbc-9b67-ecde0f56fde5",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "dasd",
+      "mediaPath": null,
+      "timestamp": 1752756503910,
+      "readStatus": 0
+    },
+    {
+      "id": "985c2ae4-83de-436b-b1f9-01d2477fca5d",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756506418,
+      "readStatus": 0
+    },
+    {
+      "id": "a6e62e99-0064-4101-8709-71fb47dcbada",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "dasd",
+      "mediaPath": null,
+      "timestamp": 1752756518700,
+      "readStatus": 0
+    },
+    {
+      "id": "d062f30a-43fe-46c5-a066-1a76a5d60e1c",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756521214,
+      "readStatus": 0
+    },
+    {
+      "id": "04b7413d-f718-4258-803d-e7791ea3042b",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "asds",
+      "mediaPath": null,
+      "timestamp": 1752756534176,
+      "readStatus": 0
+    },
+    {
+      "id": "cea2c8c4-1572-4915-b327-a38b9166f4bf",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756536680,
+      "readStatus": 0
+    },
+    {
+      "id": "41000ea1-25d9-4471-a606-1a55ecfcdac2",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "sda",
+      "mediaPath": null,
+      "timestamp": 1752756613039,
+      "readStatus": 0
+    },
+    {
+      "id": "7c2de35f-b90f-45c0-b505-9ae9df1e9b83",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756615558,
+      "readStatus": 0
+    },
+    {
+      "id": "00f1d997-a3ec-412d-80b1-c153ada41117",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "asd",
+      "mediaPath": null,
+      "timestamp": 1752756688689,
+      "readStatus": 0
+    },
+    {
+      "id": "078915de-4c92-4f3c-8c53-bb64e507c667",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756691203,
+      "readStatus": 0
+    },
+    {
+      "id": "b1d43c79-1dda-4612-982d-b5e36cd3c6f9",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "dasda",
+      "mediaPath": null,
+      "timestamp": 1752756693351,
+      "readStatus": 0
+    },
+    {
+      "id": "545f1b3d-bf9a-4dd3-afd3-943b2cc0d361",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756695867,
+      "readStatus": 0
+    },
+    {
+      "id": "aa422c3a-c6c5-49a7-9f0f-921f43c35d4b",
+      "conversationId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "asda",
+      "mediaPath": null,
+      "timestamp": 1752756701935,
+      "readStatus": 0
+    },
+    {
+      "id": "ec86c5ec-4ff3-446a-9f7d-74419b1d19df",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+      "content": "(Response from Anna_X): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756704447,
+      "readStatus": 0
+    },
+    {
+      "id": "3dbf9426-fed8-47fa-bf40-5f9b43910a73",
+      "conversationId": "759942c0-cf1f-4e23-a967-7f7d78eb572d",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "dasd",
+      "mediaPath": null,
+      "timestamp": 1752756706973,
+      "readStatus": 0
+    },
+    {
+      "id": "7af55b1f-c413-4c1d-b5cd-5eb3fcec3edb",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "759942c0-cf1f-4e23-a967-7f7d78eb572d",
+      "content": "(Response from Elena_K): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756709491,
+      "readStatus": 0
+    },
+    {
+      "id": "3ea5eb5c-77a5-48bf-a0ff-176cd3ad6689",
+      "conversationId": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "dasd",
+      "mediaPath": null,
+      "timestamp": 1752756711515,
+      "readStatus": 0
+    },
+    {
+      "id": "7ea78331-28a2-46d5-bd01-7e7c039590aa",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+      "content": "(Response from Marco_Z): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756714029,
+      "readStatus": 0
+    },
+    {
+      "id": "5b682f73-56f3-4451-a886-9658f378a636",
+      "conversationId": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "asda",
+      "mediaPath": null,
+      "timestamp": 1752756744282,
+      "readStatus": 0
+    },
+    {
+      "id": "99b02f1f-9e5d-434c-96f6-95fd1f82f6ea",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+      "content": "(Response from Marco_Z): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756746787,
+      "readStatus": 0
+    },
+    {
+      "id": "bcc41691-f4f0-46e5-a52b-7acfd2c36c25",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "asd",
+      "mediaPath": null,
+      "timestamp": 1752756751544,
+      "readStatus": 0
+    },
+    {
+      "id": "ddf3d809-ac43-4c5d-85db-f81c1a4b32a0",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756754057,
+      "readStatus": 0
+    },
+    {
+      "id": "17f39749-7e26-495d-b213-71bcb51c5db0",
+      "conversationId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "dasd",
+      "mediaPath": null,
+      "timestamp": 1752756758766,
+      "readStatus": 0
+    },
+    {
+      "id": "b8154dda-4798-4df4-9b4c-e30b87201468",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+      "content": "(Response from Anna_X): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756761287,
+      "readStatus": 0
+    },
+    {
+      "id": "aaf8b16a-8a43-4151-b44c-380c643e8d3a",
+      "conversationId": "759942c0-cf1f-4e23-a967-7f7d78eb572d",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "dsad",
+      "mediaPath": null,
+      "timestamp": 1752756764782,
+      "readStatus": 0
+    },
+    {
+      "id": "3c921b07-47c6-46ca-a24d-8cbebd94f452",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "759942c0-cf1f-4e23-a967-7f7d78eb572d",
+      "content": "(Response from Elena_K): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756767289,
+      "readStatus": 0
+    },
+    {
+      "id": "aea801e9-1b7e-41a3-877d-f81e7e075eb5",
+      "conversationId": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "asds",
+      "mediaPath": null,
+      "timestamp": 1752756781634,
+      "readStatus": 0
+    },
+    {
+      "id": "1b6babfa-f4ba-4d6c-b37e-d4e5cac11466",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+      "content": "(Response from Marco_Z): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756784154,
+      "readStatus": 0
+    },
+    {
+      "id": "a755fac9-d7f8-4842-9222-578784ee6aae",
+      "conversationId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "asda",
+      "mediaPath": null,
+      "timestamp": 1752756827601,
+      "readStatus": 0
+    },
+    {
+      "id": "38f86bbc-57af-459a-8c77-9b54bdaf65d4",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+      "content": "(Response from Anna_X): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752756830117,
+      "readStatus": 0
+    },
+    {
+      "id": "4e175045-73a7-4036-9f62-24485b7c3d89",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "sdads",
+      "mediaPath": null,
+      "timestamp": 1752823998458,
+      "readStatus": 0
+    },
+    {
+      "id": "65138c38-cc30-4bf9-b12c-0dca7e65f3ad",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Initiating acknowledgment protocol. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752824000961,
+      "readStatus": 0
+    },
+    {
+      "id": "dc9146da-023d-4f36-b59f-37039e00e1a3",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "asd",
+      "mediaPath": null,
+      "timestamp": 1752824770506,
+      "readStatus": 0
+    },
+    {
+      "id": "d948c1e5-6cb6-4330-ab8e-3f4f59a8370d",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Acknowledgment protocol initiated. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752824773012,
+      "readStatus": 0
+    },
+    {
+      "id": "9eb8c262-c762-4da7-9bc2-39bb29fc0fe1",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "cao",
+      "mediaPath": null,
+      "timestamp": 1752824791021,
+      "readStatus": 0
+    },
+    {
+      "id": "83c3ce2c-0e75-4723-8304-cd97239a3542",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Acknowledgment protocol initiated. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752824793534,
+      "readStatus": 0
+    },
+    {
+      "id": "a2277e86-da1f-42d6-87ef-9552bb01c339",
+      "conversationId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "senderId": "7634dfac-0b5f-41f4-9e97-7dbb7262e906",
+      "content": "n",
+      "mediaPath": null,
+      "timestamp": 1752824972493,
+      "readStatus": 0
+    },
+    {
+      "id": "6b80b549-5b6e-4b9f-ade6-f37eaeee899b",
+      "conversationId": "7634dfac-0b5f-41f4-9e97-7dbb7262e906",
+      "senderId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "content": "(Response from Dev_User): Acknowledgment protocol initiated. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752824975005,
+      "readStatus": 0
+    },
+    {
+      "id": "8b301311-2b8f-443c-b2cd-fa3c692f9576",
+      "conversationId": "7634dfac-0b5f-41f4-9e97-7dbb7262e906",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "desi",
+      "mediaPath": null,
+      "timestamp": 1752825403593,
+      "readStatus": 0
+    },
+    {
+      "id": "c761efdb-24f1-4cd3-bd40-76eef6d0c86f",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "7634dfac-0b5f-41f4-9e97-7dbb7262e906",
+      "content": "(Response from stefan): Acknowledgment protocol initiated. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752825406099,
+      "readStatus": 0
+    },
+    {
+      "id": "e62a3ad8-0c85-40e7-b851-cfab70fae5d8",
+      "conversationId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "senderId": "7634dfac-0b5f-41f4-9e97-7dbb7262e906",
+      "content": "sda",
+      "mediaPath": null,
+      "timestamp": 1752825428208,
+      "readStatus": 0
+    },
+    {
+      "id": "2137588d-5c1d-4bd2-8830-69c1319081a2",
+      "conversationId": "7634dfac-0b5f-41f4-9e97-7dbb7262e906",
+      "senderId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "content": "(Response from anja): Acknowledgment protocol initiated. Message received. 🤖",
+      "mediaPath": null,
+      "timestamp": 1752825430717,
+      "readStatus": 0
+    }
+  ],
+  "stories": [
+    {
+      "id": "5a6c418a-91b1-42c7-acf0-8d4e754ab5c8",
+      "userId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+      "mediaPath": "https://picsum.photos/id/639/600/1000",
+      "timestamp": 1752742277951,
+      "expiryTime": 1752825087951,
+      "viewsCount": 15,
+      "type": "image",
+      "likes": []
+    },
+    {
+      "id": "8de780d8-5854-4993-b69e-454cc36e9d16",
+      "userId": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+      "mediaPath": "https://picsum.photos/id/943/600/1000",
+      "timestamp": 1752742267951,
+      "expiryTime": 1752821487951,
+      "viewsCount": 20,
+      "type": "image",
+      "likes": []
+    },
+    {
+      "id": "b6eca968-af1f-48fc-a02d-97fd80da99cd",
+      "userId": "759942c0-cf1f-4e23-a967-7f7d78eb572d",
+      "mediaPath": "http://localhost:3001/uploads/sample_video_1.mp4",
+      "timestamp": 1752742272951,
+      "expiryTime": 1752823287951,
+      "viewsCount": 10,
+      "type": "video",
+      "likes": []
+    },
+    {
+      "id": "93ac61c1-80f4-4151-b8c7-40d692769f62",
+      "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "mediaPath": "https://picsum.photos/id/456/600/1000",
+      "timestamp": 1752742285951,
+      "expiryTime": 1752828327951,
+      "viewsCount": 0,
+      "type": "image",
+      "likes": [
+        "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "7634dfac-0b5f-41f4-9e97-7dbb7262e906"
+      ]
+    },
+    {
+      "id": "5be9e6ae-dd6e-476f-8c3f-529bae000431",
+      "userId": "7634dfac-0b5f-41f4-9e97-7dbb7262e906",
+      "mediaPath": "/uploads/media-1752825348540-d720d9df-f436-405e-919d-6c03c0f505b7.jpg",
+      "timestamp": 1752825348553,
+      "expiryTime": 1752911748553,
+      "viewsCount": 0,
+      "likes": [
+        "7634dfac-0b5f-41f4-9e97-7dbb7262e906"
+      ],
+      "type": "image"
+    },
+    {
+      "id": "c1bc777e-49a6-4ec2-b17e-af37459a9c25",
+      "userId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+      "mediaPath": "/uploads/media-1752825832074-bac73b3f-363c-4ca9-ae36-6562a1c8ed37.jpg",
+      "timestamp": 1752825832082,
+      "expiryTime": 1752912232082,
+      "viewsCount": 0,
+      "likes": [
+        "9a9316f7-cb10-42fb-bf59-7ab7d967bd00"
+      ],
+      "type": "image"
+    }
+  ],
+  "posts": [
+    {
+      "id": "54c7d942-14a1-4069-a25e-96ead59d6523",
+      "userId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+      "mediaPath": "https://picsum.photos/id/843/600/400",
+      "caption": "Synthesized landscapes. Data visualization complete. #DigitalArt #FutureScape",
+      "timestamp": 1752310287951,
+      "likesCount": 25,
+      "comments": [],
+      "type": "image",
+      "likes": [
+        "7634dfac-0b5f-41f4-9e97-7dbb7262e906"
+      ]
+    },
+    {
+      "id": "9b766c27-0110-4ad2-abcf-7f472dad9187",
+      "userId": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+      "mediaPath": "http://localhost:3001/uploads/sample_video_2.mp4",
+      "caption": "New code compiled. Executing test sequence. Bug analysis ongoing. #CodingLife #BinaryFlow",
+      "timestamp": 1752569487951,
+      "likesCount": 16,
+      "comments": [],
+      "type": "video",
+      "likes": [
+        "c227564c-3e88-4792-9ee7-eb35d60bbb8c"
+      ]
+    },
+    {
+      "id": "505b85ca-0fda-4dda-afa5-9c6f31b4df28",
+      "userId": "759942c0-cf1f-4e23-a967-7f7d78eb572d",
+      "mediaPath": "https://picsum.photos/id/754/600/400",
+      "caption": "Neural network optimizations. Achieving peak performance. #AI #MachineLearning",
+      "timestamp": 1752655887951,
+      "likesCount": 31,
+      "comments": [
+        {
+          "id": "ba1bae11-662b-474b-9e95-664c50d7732a",
+          "userId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+          "content": "da",
+          "timestamp": 1752756190216
+        },
+        {
+          "id": "8025beb1-146c-4e15-bc31-e29305449ba5",
+          "userId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+          "content": "sda",
+          "timestamp": 1752824853057
+        }
+      ],
+      "type": "image",
+      "likes": []
+    },
+    {
+      "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+      "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "mediaPath": "https://picsum.photos/id/280/600/400",
+      "caption": "System online. Initializing social protocol. Hello, digital realm. ✨",
+      "timestamp": 1752742287951,
+      "likesCount": 11,
+      "comments": [
+        {
+          "id": "9891c94a-12cb-453c-8577-769af6b1261e",
+          "userId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+          "content": "sdasd",
+          "timestamp": 1752753617388
+        },
+        {
+          "id": "fc212a28-d6ae-4752-844c-bfff9ccba811",
+          "userId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+          "content": "das",
+          "timestamp": 1752753626926
+        },
+        {
+          "id": "edeeae2c-8a38-487a-b4a4-2027ea672ea4",
+          "userId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+          "content": "sda",
+          "timestamp": 1752753628324
+        },
+        {
+          "id": "fc7d6e34-0707-458a-8e98-96061863b960",
+          "userId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+          "content": "s",
+          "timestamp": 1752753629446
+        },
+        {
+          "id": "56fc53fe-602f-4a51-bcde-eaf1465ab9a0",
+          "userId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+          "content": "ad",
+          "timestamp": 1752753630621
+        },
+        {
+          "id": "2948e2b0-a603-4beb-b1a9-59caf88c1554",
+          "userId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+          "content": "asd",
+          "timestamp": 1752753631821
+        },
+        {
+          "id": "0fbf983c-e878-4649-a310-05af4b585551",
+          "userId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+          "content": "dasd",
+          "timestamp": 1752753634893
+        },
+        {
+          "id": "2d5c9d1f-afa0-4d19-8ed6-04b36a886ef1",
+          "userId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+          "content": "dasd",
+          "timestamp": 1752753638131
+        },
+        {
+          "id": "77823aa8-84be-4a1d-8342-cde99b305c62",
+          "userId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+          "content": "s",
+          "timestamp": 1752753721348
+        },
+        {
+          "id": "900d7830-6816-41ca-b5cb-421164449927",
+          "userId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+          "content": "da",
+          "timestamp": 1752824866464
+        }
+      ],
+      "type": "image",
+      "likes": [
+        "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "7634dfac-0b5f-41f4-9e97-7dbb7262e906"
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "id": "4ec0aa1f-1ca4-475e-8e3e-f558d0f73368",
+      "userId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+      "mediaPath": "http://localhost:3001/uploads/sample_video_1.mp4",
+      "title": "Digital World Exploration Log 001",
+      "timestamp": 1752699087951,
+      "likesCount": 120,
+      "viewsCount": 1500,
+      "likes": [
+        "c227564c-3e88-4792-9ee7-eb35d60bbb8c"
+      ],
+      "comments": []
+    },
+    {
+      "id": "e805d3b1-a7d3-45b8-8f22-c41b5820fbb7",
+      "userId": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+      "mediaPath": "http://localhost:3001/uploads/sample_video_2.mp4",
+      "title": "Binary Dance Protocol Activated",
+      "timestamp": 1752735087951,
+      "likesCount": 80,
+      "viewsCount": 900,
+      "comments": [
+        {
+          "id": "387f5694-a9e6-40fe-a755-11ae453f5d47",
+          "userId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+          "content": "sdad",
+          "timestamp": 1752753652630
+        },
+        {
+          "id": "94ae1397-c761-4115-92cc-2fc0f0704935",
+          "userId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+          "content": "sa",
+          "timestamp": 1752753686065
+        }
+      ],
+      "likes": []
+    },
+    {
+      "id": "0dc9e902-8b48-49e2-92ea-d4bb190804b0",
+      "userId": "759942c0-cf1f-4e23-a967-7f7d78eb572d",
+      "mediaPath": "http://localhost:3001/uploads/sample_video_1.mp4",
+      "title": "Optimizing Human Performance: Beta Test",
+      "timestamp": 1752738687951,
+      "likesCount": 200,
+      "viewsCount": 2500,
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": "5d860e84-8ff9-4f32-b7c6-05f78ba70bf8",
+      "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+      "mediaPath": "http://localhost:3001/uploads/sample_video_2.mp4",
+      "title": "First Upload: Cybernetic Journey Begins",
+      "timestamp": 1752742286951,
+      "likesCount": 0,
+      "viewsCount": 0,
+      "likes": [
+        "c227564c-3e88-4792-9ee7-eb35d60bbb8c"
+      ],
+      "comments": [
+        {
+          "id": "0ba48406-fd10-436b-9c18-56979577ee3e",
+          "userId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+          "content": "s",
+          "timestamp": 1752753692004
+        }
+      ]
+    }
+  ],
+  "streaks": {
+    "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb_1fbd9ade-c029-4763-b9e1-99a8b2c28a2f": {
+      "currentStreak": 3,
+      "lastInteractionTimestamp": 1752699087951
+    },
+    "7634dfac-0b5f-41f4-9e97-7dbb7262e906_c227564c-3e88-4792-9ee7-eb35d60bbb8c": {
+      "currentStreak": 2,
+      "lastInteractionTimestamp": 1752825428222
+    }
+  },
+  "activities": [
+    {
+      "id": "e127c551-7497-4cfb-a537-767b76aef56b",
+      "type": "like",
+      "fromUser": {
+        "id": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+        "name": "Marco_Z",
+        "avatar": "https://picsum.photos/id/532/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400"
+      },
+      "timestamp": 1752742277951
+    },
+    {
+      "id": "a2a00cbe-50ab-4e2f-8e3f-7b3f5d5b3059",
+      "type": "follow",
+      "fromUser": {
+        "id": "759942c0-cf1f-4e23-a967-7f7d78eb572d",
+        "name": "Elena_K",
+        "avatar": "https://picsum.photos/id/756/100/100"
+      },
+      "target": {
+        "type": "user",
+        "id": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "name": "You"
+      },
+      "timestamp": 1752742257951
+    },
+    {
+      "id": "91b40803-72e5-437d-92cc-8220a260f968",
+      "type": "comment",
+      "fromUser": {
+        "id": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+        "name": "Anna_X",
+        "avatar": "https://picsum.photos/id/794/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400"
+      },
+      "commentContent": "Excellent data structure!",
+      "timestamp": 1752742227951
+    },
+    {
+      "id": "ec7c61d8-90e1-4cf9-a333-e2d54b1a59c5",
+      "type": "like",
+      "fromUser": {
+        "id": "d5173058-1b12-4f6d-b0ab-dc8a9fb056df",
+        "name": "Luca_G",
+        "avatar": "https://picsum.photos/id/950/100/100"
+      },
+      "target": {
+        "type": "story",
+        "id": "93ac61c1-80f4-4151-b8c7-40d692769f62",
+        "media": "https://picsum.photos/id/456/600/1000"
+      },
+      "timestamp": 1752742167951
+    },
+    {
+      "id": "389178b9-2c23-4aa3-9b00-5a351a77e9c7",
+      "type": "follow",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "user",
+        "id": "7634dfac-0b5f-41f4-9e97-7dbb7262e906",
+        "name": "stefan"
+      },
+      "timestamp": 1752742386413
+    },
+    {
+      "id": "a2e34ef2-66b7-43b9-bb89-ed61ec2e3f8a",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752742996687
+    },
+    {
+      "id": "611d45f0-4f5a-4d4a-90a2-b0a8444e0e18",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752742998897
+    },
+    {
+      "id": "ea202439-1d76-48f9-905a-1761c392467c",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752742999873
+    },
+    {
+      "id": "6fa8f90b-0b47-4fed-b2da-ff395930f52f",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752743000048
+    },
+    {
+      "id": "f6a6bd87-235c-4321-bfda-a9ec8b18cad9",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752743000200
+    },
+    {
+      "id": "04a45c51-3daf-47f3-9275-6dc337a2d9ba",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752743000560
+    },
+    {
+      "id": "429243aa-93da-4e42-8ded-6d313fc0023d",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752743000728
+    },
+    {
+      "id": "3cbcd248-6402-4db1-8348-13d93ef2f165",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752743000888
+    },
+    {
+      "id": "6105ae11-6546-4214-8989-9198f9341cbc",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752743001240
+    },
+    {
+      "id": "2b2d3994-b611-44ea-993d-010aea4d2eb1",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752743001408
+    },
+    {
+      "id": "72733671-8bab-480d-8943-198bc1bac1df",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752743001568
+    },
+    {
+      "id": "ecec03e6-ce59-48ce-b00d-05e7f238fae1",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "505b85ca-0fda-4dda-afa5-9c6f31b4df28",
+        "media": "https://picsum.photos/id/754/600/400",
+        "userId": "759942c0-cf1f-4e23-a967-7f7d78eb572d",
+        "ownerName": "Elena_K"
+      },
+      "timestamp": 1752743011218
+    },
+    {
+      "id": "b2cd5094-ed85-4959-bc82-7d5167026f0e",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "9b766c27-0110-4ad2-abcf-7f472dad9187",
+        "media": "http://localhost:3001/uploads/sample_video_2.mp4",
+        "userId": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+        "ownerName": "Marco_Z"
+      },
+      "timestamp": 1752743013546
+    },
+    {
+      "id": "a5354c40-8f9f-42ef-8a69-4e6c8266ee9c",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752743564234
+    },
+    {
+      "id": "465355a7-bab2-4a19-8e3c-b21a4afa65e4",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752743567015
+    },
+    {
+      "id": "3df31e90-e388-42b9-ac35-390c7005945b",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752743570569
+    },
+    {
+      "id": "13c977fa-b615-4ca8-83ce-ed209e656ac3",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752743571914
+    },
+    {
+      "id": "d08dbadd-327c-49d2-80d3-4becedaf2c32",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752743574008
+    },
+    {
+      "id": "aa0c7fad-e014-4553-9309-955d1845c8bc",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752743576113
+    },
+    {
+      "id": "dc86a2ff-c39d-412c-a065-5d965fd6aa72",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752744528168
+    },
+    {
+      "id": "16359d15-da3f-46aa-b6a0-722107dfd7d3",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752744530192
+    },
+    {
+      "id": "2b968709-8227-42ae-bad6-b1000050c32d",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "video",
+        "id": "5d860e84-8ff9-4f32-b7c6-05f78ba70bf8",
+        "media": "http://localhost:3001/uploads/sample_video_2.mp4",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752747184928
+    },
+    {
+      "id": "ede18e1e-0cbc-45c1-a236-eb37d95e6600",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "video",
+        "id": "5d860e84-8ff9-4f32-b7c6-05f78ba70bf8",
+        "media": "http://localhost:3001/uploads/sample_video_2.mp4",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752747187703
+    },
+    {
+      "id": "50f596d9-fbad-4ca6-bab6-0660e6bedca2",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "video",
+        "id": "5d860e84-8ff9-4f32-b7c6-05f78ba70bf8",
+        "media": "http://localhost:3001/uploads/sample_video_2.mp4",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752747188550
+    },
+    {
+      "id": "edbc67e5-4868-4405-8af7-3287af6d2ebf",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "story",
+        "id": "93ac61c1-80f4-4151-b8c7-40d692769f62",
+        "media": "https://picsum.photos/id/456/600/1000",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752747193547
+    },
+    {
+      "id": "91bcfb85-b17e-4e36-95ea-b02d80323d6d",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "story",
+        "id": "93ac61c1-80f4-4151-b8c7-40d692769f62",
+        "media": "https://picsum.photos/id/456/600/1000",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752747195849
+    },
+    {
+      "id": "45b26872-4985-4a16-9606-7d638e500d43",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "story",
+        "id": "93ac61c1-80f4-4151-b8c7-40d692769f62",
+        "media": "https://picsum.photos/id/456/600/1000",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752747196985
+    },
+    {
+      "id": "766b9c67-ddae-487f-b46f-ff156e8517d8",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "story",
+        "id": "93ac61c1-80f4-4151-b8c7-40d692769f62",
+        "media": "https://picsum.photos/id/456/600/1000",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752747197940
+    },
+    {
+      "id": "3b25c7d6-b1e5-4ebe-a7f2-43398080bff0",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "story",
+        "id": "93ac61c1-80f4-4151-b8c7-40d692769f62",
+        "media": "https://picsum.photos/id/456/600/1000",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752747198830
+    },
+    {
+      "id": "ec86ffd8-9dc0-4810-a212-8a6590f276c7",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "story",
+        "id": "93ac61c1-80f4-4151-b8c7-40d692769f62",
+        "media": "https://picsum.photos/id/456/600/1000",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752747199667
+    },
+    {
+      "id": "2cf413df-4426-42ef-8f4d-b0b668f3e8f3",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "story",
+        "id": "93ac61c1-80f4-4151-b8c7-40d692769f62",
+        "media": "https://picsum.photos/id/456/600/1000",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752747200547
+    },
+    {
+      "id": "4cf8d66c-7676-4cd2-85f5-83ebad4cccbb",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "story",
+        "id": "93ac61c1-80f4-4151-b8c7-40d692769f62",
+        "media": "https://picsum.photos/id/456/600/1000",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752747201403
+    },
+    {
+      "id": "6fe9b8af-c03d-4fc8-91fe-9b427f28dfa7",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "story",
+        "id": "93ac61c1-80f4-4151-b8c7-40d692769f62",
+        "media": "https://picsum.photos/id/456/600/1000",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752747202267
+    },
+    {
+      "id": "83c66fc0-812c-481d-a551-20f163ae2402",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "story",
+        "id": "93ac61c1-80f4-4151-b8c7-40d692769f62",
+        "media": "https://picsum.photos/id/456/600/1000",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752747203135
+    },
+    {
+      "id": "9e4cb913-86cc-417d-812c-b36499628254",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "story",
+        "id": "93ac61c1-80f4-4151-b8c7-40d692769f62",
+        "media": "https://picsum.photos/id/456/600/1000",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752747206197
+    },
+    {
+      "id": "52ace861-8442-4bde-b69f-a140a8b638c5",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "story",
+        "id": "8de780d8-5854-4993-b69e-454cc36e9d16",
+        "media": "https://picsum.photos/id/943/600/1000",
+        "userId": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+        "ownerName": "Marco_Z"
+      },
+      "timestamp": 1752747211919
+    },
+    {
+      "id": "ccbe7461-20f3-4d0a-9864-1829247b4b1e",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "video",
+        "id": "4ec0aa1f-1ca4-475e-8e3e-f558d0f73368",
+        "media": "http://localhost:3001/uploads/sample_video_1.mp4",
+        "userId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+        "ownerName": "Anna_X"
+      },
+      "timestamp": 1752752255904
+    },
+    {
+      "id": "4ecfc4d9-fbdb-410e-885d-2182dfba5c59",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "video",
+        "id": "4ec0aa1f-1ca4-475e-8e3e-f558d0f73368",
+        "media": "http://localhost:3001/uploads/sample_video_1.mp4",
+        "userId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+        "ownerName": "Anna_X"
+      },
+      "timestamp": 1752752266240
+    },
+    {
+      "id": "92801c27-97d3-465b-8604-e84091400f57",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "video",
+        "id": "4ec0aa1f-1ca4-475e-8e3e-f558d0f73368",
+        "media": "http://localhost:3001/uploads/sample_video_1.mp4",
+        "userId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+        "ownerName": "Anna_X"
+      },
+      "timestamp": 1752752273856
+    },
+    {
+      "id": "8f72b984-0dac-4948-834e-f03d1158e967",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "video",
+        "id": "4ec0aa1f-1ca4-475e-8e3e-f558d0f73368",
+        "media": "http://localhost:3001/uploads/sample_video_1.mp4",
+        "userId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+        "ownerName": "Anna_X"
+      },
+      "timestamp": 1752752275190
+    },
+    {
+      "id": "9ffd3e2c-ff5a-400b-83d1-de37cc6df6db",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "video",
+        "id": "4ec0aa1f-1ca4-475e-8e3e-f558d0f73368",
+        "media": "http://localhost:3001/uploads/sample_video_1.mp4",
+        "userId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+        "ownerName": "Anna_X"
+      },
+      "timestamp": 1752752276047
+    },
+    {
+      "id": "0626c679-92ba-477c-9e4c-b1744866d729",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "video",
+        "id": "4ec0aa1f-1ca4-475e-8e3e-f558d0f73368",
+        "media": "http://localhost:3001/uploads/sample_video_1.mp4",
+        "userId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+        "ownerName": "Anna_X"
+      },
+      "timestamp": 1752752276871
+    },
+    {
+      "id": "9ca72e4f-7e22-4f5f-97bc-c5d91f8679f4",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "video",
+        "id": "4ec0aa1f-1ca4-475e-8e3e-f558d0f73368",
+        "media": "http://localhost:3001/uploads/sample_video_1.mp4",
+        "userId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+        "ownerName": "Anna_X"
+      },
+      "timestamp": 1752752277703
+    },
+    {
+      "id": "7a312242-ac45-4eb9-916a-232159500766",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "video",
+        "id": "4ec0aa1f-1ca4-475e-8e3e-f558d0f73368",
+        "media": "http://localhost:3001/uploads/sample_video_1.mp4",
+        "userId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+        "ownerName": "Anna_X"
+      },
+      "timestamp": 1752752279264
+    },
+    {
+      "id": "07ee4852-dde1-4a0a-9f94-a97c8b6475de",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "video",
+        "id": "4ec0aa1f-1ca4-475e-8e3e-f558d0f73368",
+        "media": "http://localhost:3001/uploads/sample_video_1.mp4",
+        "userId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+        "ownerName": "Anna_X"
+      },
+      "timestamp": 1752752330848
+    },
+    {
+      "id": "cab27ec1-1145-4960-9fbc-16693977ba25",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "story",
+        "id": "93ac61c1-80f4-4151-b8c7-40d692769f62",
+        "media": "https://picsum.photos/id/456/600/1000",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752752334458
+    },
+    {
+      "id": "f007607b-2b2b-4f79-8c87-ff2b2f2246fe",
+      "type": "comment",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "commentContent": "sdasd",
+      "timestamp": 1752753617389
+    },
+    {
+      "id": "aa42104a-a79c-496c-9905-07e247650b97",
+      "type": "comment",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "commentContent": "das",
+      "timestamp": 1752753626926
+    },
+    {
+      "id": "78c86a5c-9ca9-4f7c-98c7-966dd86d7db6",
+      "type": "comment",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "commentContent": "sda",
+      "timestamp": 1752753628324
+    },
+    {
+      "id": "f437bbc6-7257-4b3f-957e-43a05b626c88",
+      "type": "comment",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "commentContent": "s",
+      "timestamp": 1752753629446
+    },
+    {
+      "id": "d963456f-2502-46ce-8176-0eecc56f31f7",
+      "type": "comment",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "commentContent": "ad",
+      "timestamp": 1752753630621
+    },
+    {
+      "id": "9d7cf2ae-a959-4058-a400-4a4931111b63",
+      "type": "comment",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "commentContent": "asd",
+      "timestamp": 1752753631821
+    },
+    {
+      "id": "f845e5ea-1def-4136-80fc-d8611a903cb0",
+      "type": "comment",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "commentContent": "dasd",
+      "timestamp": 1752753634893
+    },
+    {
+      "id": "7b959485-609e-458c-9737-24047cd8cfa2",
+      "type": "comment",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "commentContent": "dasd",
+      "timestamp": 1752753638131
+    },
+    {
+      "id": "6947d585-3368-4e05-8fc4-a5099767f0b9",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "505b85ca-0fda-4dda-afa5-9c6f31b4df28",
+        "media": "https://picsum.photos/id/754/600/400",
+        "userId": "759942c0-cf1f-4e23-a967-7f7d78eb572d",
+        "ownerName": "Elena_K"
+      },
+      "timestamp": 1752753642344
+    },
+    {
+      "id": "99221f0d-df9d-4384-a927-47ead072b5db",
+      "type": "comment",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "video",
+        "id": "e805d3b1-a7d3-45b8-8f22-c41b5820fbb7",
+        "media": "http://localhost:3001/uploads/sample_video_2.mp4",
+        "userId": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+        "ownerName": "Marco_Z"
+      },
+      "commentContent": "sdad",
+      "timestamp": 1752753652630
+    },
+    {
+      "id": "f938f6ac-87a5-4f1b-8fc6-e08402c6e2bd",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "video",
+        "id": "e805d3b1-a7d3-45b8-8f22-c41b5820fbb7",
+        "media": "http://localhost:3001/uploads/sample_video_2.mp4",
+        "userId": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+        "ownerName": "Marco_Z"
+      },
+      "timestamp": 1752753682367
+    },
+    {
+      "id": "76546faf-7488-4d72-b8ce-66bef027bcfc",
+      "type": "comment",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "video",
+        "id": "e805d3b1-a7d3-45b8-8f22-c41b5820fbb7",
+        "media": "http://localhost:3001/uploads/sample_video_2.mp4",
+        "userId": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+        "ownerName": "Marco_Z"
+      },
+      "commentContent": "sa",
+      "timestamp": 1752753686065
+    },
+    {
+      "id": "c6b6978e-2d2a-457f-92ee-d7ee13c2fcad",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "video",
+        "id": "5d860e84-8ff9-4f32-b7c6-05f78ba70bf8",
+        "media": "http://localhost:3001/uploads/sample_video_2.mp4",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752753689542
+    },
+    {
+      "id": "8166bb3c-a9a6-449f-9ee3-e745f64e2e93",
+      "type": "comment",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "video",
+        "id": "5d860e84-8ff9-4f32-b7c6-05f78ba70bf8",
+        "media": "http://localhost:3001/uploads/sample_video_2.mp4",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "commentContent": "s",
+      "timestamp": 1752753692004
+    },
+    {
+      "id": "d2ba428f-8c48-45ea-9be9-7dd4cfc2375d",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "video",
+        "id": "e805d3b1-a7d3-45b8-8f22-c41b5820fbb7",
+        "media": "http://localhost:3001/uploads/sample_video_2.mp4",
+        "userId": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+        "ownerName": "Marco_Z"
+      },
+      "timestamp": 1752753694662
+    },
+    {
+      "id": "291cf9ab-c810-476c-8e77-6f97a753c473",
+      "type": "comment",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "commentContent": "s",
+      "timestamp": 1752753721348
+    },
+    {
+      "id": "d724c1e0-c966-4a3d-935a-b72dec69ce62",
+      "type": "comment",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "505b85ca-0fda-4dda-afa5-9c6f31b4df28",
+        "media": "https://picsum.photos/id/754/600/400",
+        "userId": "759942c0-cf1f-4e23-a967-7f7d78eb572d",
+        "ownerName": "Elena_K"
+      },
+      "commentContent": "da",
+      "timestamp": 1752756190216
+    },
+    {
+      "id": "2b50c977-5152-42f0-bffe-c6012bddd6f2",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "9b766c27-0110-4ad2-abcf-7f472dad9187",
+        "media": "http://localhost:3001/uploads/sample_video_2.mp4",
+        "userId": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+        "ownerName": "Marco_Z"
+      },
+      "timestamp": 1752756195722
+    },
+    {
+      "id": "9aefe039-4302-4800-af04-1b3615ae9256",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "9b766c27-0110-4ad2-abcf-7f472dad9187",
+        "media": "http://localhost:3001/uploads/sample_video_2.mp4",
+        "userId": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+        "ownerName": "Marco_Z"
+      },
+      "timestamp": 1752756196737
+    },
+    {
+      "id": "edc33e07-446a-458a-ba23-3a8aa51339ba",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "505b85ca-0fda-4dda-afa5-9c6f31b4df28",
+        "media": "https://picsum.photos/id/754/600/400",
+        "userId": "759942c0-cf1f-4e23-a967-7f7d78eb572d",
+        "ownerName": "Elena_K"
+      },
+      "timestamp": 1752756199568
+    },
+    {
+      "id": "d75044ed-93cd-47aa-b795-e5020be85227",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "505b85ca-0fda-4dda-afa5-9c6f31b4df28",
+        "media": "https://picsum.photos/id/754/600/400",
+        "userId": "759942c0-cf1f-4e23-a967-7f7d78eb572d",
+        "ownerName": "Elena_K"
+      },
+      "timestamp": 1752756200234
+    },
+    {
+      "id": "92555b2e-220c-4fb5-a0cf-c0e5c2a02dcb",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "505b85ca-0fda-4dda-afa5-9c6f31b4df28",
+        "media": "https://picsum.photos/id/754/600/400",
+        "userId": "759942c0-cf1f-4e23-a967-7f7d78eb572d",
+        "ownerName": "Elena_K"
+      },
+      "timestamp": 1752756200585
+    },
+    {
+      "id": "d2490849-cd27-4b94-93d3-76402361b2e2",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "505b85ca-0fda-4dda-afa5-9c6f31b4df28",
+        "media": "https://picsum.photos/id/754/600/400",
+        "userId": "759942c0-cf1f-4e23-a967-7f7d78eb572d",
+        "ownerName": "Elena_K"
+      },
+      "timestamp": 1752756201217
+    },
+    {
+      "id": "8a2a4491-bad9-4d93-b1f3-c6341ab4ac0c",
+      "type": "comment",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "505b85ca-0fda-4dda-afa5-9c6f31b4df28",
+        "media": "https://picsum.photos/id/754/600/400",
+        "userId": "759942c0-cf1f-4e23-a967-7f7d78eb572d",
+        "ownerName": "Elena_K"
+      },
+      "commentContent": "sda",
+      "timestamp": 1752824853057
+    },
+    {
+      "id": "e75b0312-db6a-4108-a1bf-d57922e5cc57",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752824856050
+    },
+    {
+      "id": "a6f03e13-6274-4b47-a5c9-0811fe0c6eb2",
+      "type": "comment",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "commentContent": "da",
+      "timestamp": 1752824866464
+    },
+    {
+      "id": "5c5af43d-f96d-4093-ba8d-1f27e2cac87d",
+      "type": "like",
+      "fromUser": {
+        "id": "7634dfac-0b5f-41f4-9e97-7dbb7262e906",
+        "name": "stefan",
+        "avatar": "https://picsum.photos/id/382/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "4d89531c-6fb2-49f3-8971-f663174e2080",
+        "media": "https://picsum.photos/id/280/600/400",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752824947171
+    },
+    {
+      "id": "d9549eb3-e6a9-4dc9-8328-d8e8361ccced",
+      "type": "like",
+      "fromUser": {
+        "id": "7634dfac-0b5f-41f4-9e97-7dbb7262e906",
+        "name": "stefan",
+        "avatar": "https://picsum.photos/id/382/100/100"
+      },
+      "target": {
+        "type": "story",
+        "id": "93ac61c1-80f4-4151-b8c7-40d692769f62",
+        "media": "https://picsum.photos/id/456/600/1000",
+        "userId": "e8df4c7f-8159-43cb-9ab6-b7d56a8977fb",
+        "ownerName": "Dev_User"
+      },
+      "timestamp": 1752825228278
+    },
+    {
+      "id": "55fb628b-97ab-4b0b-b621-8945884a4b75",
+      "type": "like",
+      "fromUser": {
+        "id": "7634dfac-0b5f-41f4-9e97-7dbb7262e906",
+        "name": "stefan",
+        "avatar": "https://picsum.photos/id/382/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "54c7d942-14a1-4069-a25e-96ead59d6523",
+        "media": "https://picsum.photos/id/843/600/400",
+        "userId": "1fbd9ade-c029-4763-b9e1-99a8b2c28a2f",
+        "ownerName": "Anna_X"
+      },
+      "timestamp": 1752825295171
+    },
+    {
+      "id": "aefe30a7-b14c-4ef8-b78c-3eae7eba33cb",
+      "type": "like",
+      "fromUser": {
+        "id": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "name": "anja",
+        "avatar": "https://picsum.photos/id/499/100/100"
+      },
+      "target": {
+        "type": "post",
+        "id": "9b766c27-0110-4ad2-abcf-7f472dad9187",
+        "media": "http://localhost:3001/uploads/sample_video_2.mp4",
+        "userId": "13b83f45-f163-4bba-92d7-eee0ca2b9a19",
+        "ownerName": "Marco_Z"
+      },
+      "timestamp": 1752832250589
+    },
+    {
+      "id": "bc69f3b4-67ab-4814-8045-16c05591c321",
+      "type": "like",
+      "fromUser": {
+        "id": "9a9316f7-cb10-42fb-bf59-7ab7d967bd00",
+        "name": "manuel",
+        "avatar": "https://picsum.photos/id/75/100/100"
+      },
+      "target": {
+        "type": "story",
+        "id": "c1bc777e-49a6-4ec2-b17e-af37459a9c25",
+        "media": "/uploads/media-1752825832074-bac73b3f-363c-4ca9-ae36-6562a1c8ed37.jpg",
+        "userId": "c227564c-3e88-4792-9ee7-eb35d60bbb8c",
+        "ownerName": "anja"
+      },
+      "timestamp": 1752833502900
+    }
+  ]
+}
